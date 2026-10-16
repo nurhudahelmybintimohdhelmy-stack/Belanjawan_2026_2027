@@ -1,0 +1,8 @@
+{
+  "name": "Belanjawan 2026 vs 2027",
+  "description": "Dashboard interaktif membandingkan peruntukan Belanjawan 2026 dan 2027 mengikut sektor, kementerian dan program utama.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
